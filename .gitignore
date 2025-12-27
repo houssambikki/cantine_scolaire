@@ -1,0 +1,14 @@
+# Config locale (non versionnée)
+config/config.local.php
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# PHP / cache
+vendor/
+tmp/
+*.cache
